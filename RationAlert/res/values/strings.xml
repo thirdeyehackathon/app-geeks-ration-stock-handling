@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RationAlert</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="authen">Ration Alert Authentication </string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="sel">Select Card Type</string>
+    <string name="gy">Green</string>
+    <string name="yel">Yellow</string>
+    <string name="white">White</string>
+    <string name="blue">Blue</string>
+    <string name="saf">Saffron</string>
+    <string name="login">Login</string>
+    <string name="gredetail">Green Card Details</string>
+    <string name="yeldetail">Yellow Card Details</string>
+    <string name="bludetail">Blue Card Details</string>
+    <string name="whidetail">White Card Details</string>
+    <string name="safdetail">Saffron Card Details</string>
+    <string name="title_activity_select_card_type">SelectCardType</string>
+    <string name="title_activity_greencard">GreenActivity</string>
+    <string name="title_activity_yellow">YellowActivity</string>
+    <string name="title_activity_blue">BlueActivity</string>
+    <string name="title_activity_white">WhiteActivity</string>
+    <string name="title_activity_saffron">SaffronActivity</string>
+
+</resources>
